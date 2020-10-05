@@ -1,7 +1,7 @@
 
 ---
 title: "mein erster blog"
-date: 2020-10-05
+date: "2020-10-05"
 ---
 
 das ist mein zweiter blog
