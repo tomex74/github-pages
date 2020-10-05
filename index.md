@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Willkommen aif meinem Blog
 
-I'm glad you are here. I plan to talk about ...
+Das ist mein erster Blog, 
+hier steht der Inhalt meiner Website.
+Heute ist meiner erster Tag mit Github.
+
